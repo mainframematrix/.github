@@ -1,2 +1,3 @@
 # .github
-GitHub Homepage of Mainframe Matrix
+
+A Special Directory for MainframeMatrix that is displayed publicly on GitHub.
