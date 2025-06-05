@@ -28,7 +28,7 @@ We welcome contributions of all kinds:
 * 🧪 Testing and QA
 * 🗣️ Ideas, discussions, and feedback
 
-📖 Read our [CONTRIBUTING.md](../.github/CONTRIBUTING.md) for guidelines on how to get started.
+📖 Proceed to our repositories and read our contributing guidelines on how to get started.
 
 ---
 
