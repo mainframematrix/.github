@@ -37,9 +37,9 @@ We welcome contributions of all kinds:
 Have questions, ideas, or feedback? Let's talk!  
 We're using [GitHub Discussions](https://github.com/orgs/mainframematrix/discussions) as a place to connect, share, and help each other.
 
-- 💡 Share ideas and feature requests  
-- 🧠 Ask questions and get help  
-- 🛠 Contribute knowledge and best practices
+* 💡 Share ideas and feature requests  
+* 🧠 Ask questions and get help  
+* 🛠 Contribute knowledge and best practices
 
 👉 [Start a Discussion](https://github.com/orgs/mainframematrix/discussions)
 
